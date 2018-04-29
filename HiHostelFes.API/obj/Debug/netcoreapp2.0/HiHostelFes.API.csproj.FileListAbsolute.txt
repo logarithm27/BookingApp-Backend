@@ -1,0 +1,11 @@
+D:\HiFes\hihostelfes.api\bin\Debug\netcoreapp2.0\HiHostelFes.API.deps.json
+D:\HiFes\hihostelfes.api\bin\Debug\netcoreapp2.0\HiHostelFes.API.runtimeconfig.json
+D:\HiFes\hihostelfes.api\bin\Debug\netcoreapp2.0\HiHostelFes.API.runtimeconfig.dev.json
+D:\HiFes\hihostelfes.api\bin\Debug\netcoreapp2.0\HiHostelFes.API.dll
+D:\HiFes\hihostelfes.api\bin\Debug\netcoreapp2.0\HiHostelFes.API.pdb
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.csprojResolveAssemblyReference.cache
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.csproj.CoreCompileInputs.cache
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.AssemblyInfoInputs.cache
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.AssemblyInfo.cs
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.dll
+D:\HiFes\hihostelfes.api\obj\Debug\netcoreapp2.0\HiHostelFes.API.pdb
