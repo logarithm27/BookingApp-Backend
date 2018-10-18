@@ -160,8 +160,6 @@ namespace HiHostelFes.API.Controllers
                     await client.AuthenticateAsync("omar.maftoulii@gmail.com", "omario15");
                     await client.SendAsync(mimeMessage);  
                     Console.WriteLine("The mail has been sent successfully !!");  
-                    // Console.ReadLine();  
-                    // await client.DisconnectAsync(true);  
                     return true;
         }
 
