@@ -7,6 +7,7 @@ namespace HiHostelFes.API.Dtos
         [Required]
         public string Username { get; set; }
         [Required]
+        //the admin task
         [StringLength(10,MinimumLength=4,ErrorMessage="You should enter a password between 4 and 10 characters")]
         public string Password { get; set; }
     }
