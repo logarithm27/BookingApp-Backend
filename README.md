@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Details on Youtube Video
 
 Check out a 20 minutes video where I explain some details about this project and also you can see me interacting with the App :
-link : https://www.youtube.com/watch?v=IjyDITSZbJc&t=942s
+link : https://www.youtube.com/watch?v=IjyDITSZbJc
 
 ## Development server
 
